@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/chrbknudsen/chrbknudsen.r-universe.dev
 	branch = HEAD
-[submodule "KnudsenRack"]
-	path = KnudsenRack
-	url = https://github.com/chrbknudsen/KnudsenRack
+[submodule "KnudsenKit"]
+	path = KnudsenKit
+	url = https://github.com/chrbknudsen/KnudsenKit
